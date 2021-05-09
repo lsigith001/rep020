@@ -4,5 +4,5 @@ def printList():
 		list0.append(i**2)
 	print list0[:5]
 		
-
+# aenderung in git
 printList()

@@ -5,7 +5,7 @@ def printList():
     print('list0..:',list0[:5])  # änderung 01 lokal
 
 
-# aenderung in git
+# Aenderung direktin git: aend02
 printList()
 
 # -------

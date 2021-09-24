@@ -5,9 +5,10 @@ def printList():
     print('list0..:',list0[:5])  # änderung 01 lokal
 
 
-# Aenderung direktin git: aend02
+# Aenderung direkt in git: aend_02
 printList()
 
+# Aenderung in pycharm: aend_01
 # -------
 
 var1 = 11.00
